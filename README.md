@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+https://www.youtube.com/channel/UCOlGME-IYrqmn6eVaTFXgxw
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1705057147](https://github.com/simpalwebvision/shopping_app/assets/99637496/9cdc2f11-2033-49a0-9915-df1a212144c4)
+![Screenshot_1705057148](https://github.com/simpalwebvision/shopping_app/assets/99637496/2fd9c231-ab1d-464a-82fe-296e05a7d03e)
+![Screenshot_1705057173](https://github.com/simpalwebvision/shopping_app/assets/99637496/7b37b490-d626-4f6a-8ee1-6d71f3c411d7)
+![Screenshot_1705057263](https://github.com/simpalwebvision/shopping_app/assets/99637496/f55fccc1-9dc5-4e68-96a5-8b8004fe7085)
